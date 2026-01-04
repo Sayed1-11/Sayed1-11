@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi, I'm Md.Sheikh Sayed👋
 
-<!--
-**Sayed1-11/Sayed1-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed1-11&label=Views&color=blue&style=plastic" alt="Sayed1-11" /> </p>
+<a href="https://twitter.com/Oreo_shaake">
+  <img align="left" alt="Sayed's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+</a>
+<a href="https://www.linkedin.com/in/sheikh-sayed/">
+  <img align="left" alt="Sayed's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+</a>
+<a href="https://github.com/Sayed1-11">
+  <img align="left" alt="Sayed's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+</a>
+<a href="https://www.instagram.com/Sayed_in_frame/">
+  <img align="left" alt="Sayed's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+<a href="https://www.facebook.com/sheikh.sayed.146">
+  <img align="left" alt="Sayed's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
+</a>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- 🌱 I learned Data Structures and Algorithms.
+- 🔱 I’m a Backend Django developer.
+- 💬 Ask me about anything [here]((https://www.linkedin.com/in/sheikh-sayed/))
+- ⚡ Fun fact: I often play video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=sayed1-11&show_icons=true&hide=contribs,prs&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed1-11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+**Languages and Tools:**
+
+<img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png"/>
+<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" align="left" alt="Django" width="26px"/>
+
+<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
+<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>
+<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
+<img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" width="26px"/>
+<br/>
+<br/>
+
+<div align="center">
+
+
+</div>
